@@ -30,5 +30,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'logstash-devutils', '~> 0'
   s.add_development_dependency 'flores', '~> 0'
   # Still used in some specs, we should remove this ASAP
-  s.add_development_dependency 'elasticsearch', '~> 0'
+  # s.add_development_dependency 'elasticsearch', '~> 0'
 end
