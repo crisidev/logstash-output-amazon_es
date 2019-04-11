@@ -1,2 +1,5 @@
-Gemfile.lock
 .ruby-version
+*.gem
+Gemfile.lock
+.bundle
+vendor
